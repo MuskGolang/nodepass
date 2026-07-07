@@ -3,12 +3,9 @@
 
 [![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go#networking)
 [![GitHub release](https://img.shields.io/github/v/release/NodePassProject/nodepass)](https://github.com/NodePassProject/nodepass/releases)
-[![GitHub downloads](https://img.shields.io/github/downloads/NodePassProject/nodepass/total.svg)](https://github.com/NodePassProject/nodepass/releases)
-[![Go Report Card](https://goreportcard.com/badge/github.com/NodePassProject/nodepass)](https://goreportcard.com/report/github.com/NodePassProject/nodepass)
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![Go Reference](https://pkg.go.dev/badge/github.com/NodePassProject/nodepass.svg)](https://pkg.go.dev/github.com/NodePassProject/nodepass)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/NodePassProject/nodepass)
-![GitHub last commit](https://img.shields.io/github/last-commit/NodePassProject/nodepass)
 
   <a href="https://apps.apple.com/us/app/nodepass/id6747930492"><img src="https://nodepass.eu/assets/appstore.png" width="120"></a>
 </div>
@@ -98,6 +95,7 @@ Explore the complete documentation to learn more about NodePass:
 - [Configuration Options](/docs/configuration.md)
 - [CLI Reference](/docs/cli.md)
 - [API Reference](/docs/api.md)
+- [MCP Reference](/docs/mcp.md)
 - [Examples](/docs/examples.md)
 - [How It Works](/docs/how-it-works.md)
 - [Troubleshooting](/docs/troubleshooting.md)
@@ -116,29 +114,13 @@ The [NodePassProject](https://github.com/NodePassProject) organization develops 
 
 - **[npsh](https://github.com/NodePassProject/npsh)**: A collection of one-click scripts that provide simple deployment for API or Dashboard with flexible configuration and management.
 
-## License
-
-- Project **NodePass** is licensed under the [BSD 3-Clause License](LICENSE), which applies to the source code only.
-
-- The **NodePass** name, logo, and official project identity are not covered by the code license and may not be used without explicit authorization.
-
-## Disclaimer
-
-This project is provided "as is" without any warranties. Users assume all risks and must comply with local laws for legal use only. Developers are not liable for any direct, indirect, incidental, or consequential damages. Secondary development requires commitment to legal use and self-responsibility for legal compliance. Developers reserve the right to modify software features and this disclaimer at any time. Final interpretation rights belong to developers.
-
 ## Donation
-
-**Cryptocurrency:**
 
 - EVM: `0x2ea4Ea9425BEe897ED74fC5512bd13ABC7100000`
 
 - TRX: `TCqbhDHoBFKRVwibe4tb7xNjtgnmkJXGR6`
 
 - SOL: `BwZuvh13BQWhYSh31dEZiy8avqZwMFfdSwfawTiMv7Bw`
-
-**NFT collection:**
-
-- Support **NodePass** in a unique way by collecting our NFTs on [OpenSea](https://opensea.io/collection/nodepass).
 
 ## Sponsors
 
@@ -161,6 +143,14 @@ This project is provided "as is" without any warranties. Users assume all risks 
   </tr>
 </table>
 
-## Stargazers
+## License
 
-[![Stargazers over time](https://starchart.cc/NodePassProject/nodepass.svg?variant=adaptive)](https://starchart.cc/NodePassProject/nodepass)
+- Project **NodePass** is licensed under the [BSD 3-Clause License](LICENSE), which applies to the source code only.
+
+- The **NodePass** name, logo, and official project identity are not covered by the code license and may not be used without explicit authorization.
+
+## Disclaimer
+
+This project is provided "as is" without any warranties. Users assume all risks and must comply with local laws for legal use only. Developers are not liable for any direct, indirect, incidental, or consequential damages. Secondary development requires commitment to legal use and self-responsibility for legal compliance. Developers reserve the right to modify software features and this disclaimer at any time. Final interpretation rights belong to developers.
+
+---

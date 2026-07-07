@@ -123,35 +123,11 @@ Security updates are released as:
 - **Minor releases** for security enhancements
 - **Documentation updates** for security best practices
 
-Subscribe to our release notifications:
-
-- [GitHub Releases](https://github.com/NodePassProject/nodepass/releases)
-- [Telegram Channel](https://t.me/NodePassChannel)
-
 ## Ecosystem Security
-
-### NodePassProject Libraries
-
-Our core dependencies are maintained by the NodePassProject organization:
-
-- **cert**: Certificate generation and management
-- **conn**: Secure connection handling
-- **logs**: Secure logging with sensitive data protection
-- **pool**: Connection pool management with resource limits
-
-### Third-Party Dependencies
 
 - We minimize external dependencies
 - All dependencies are regularly audited for security issues
 - Updates are applied promptly when security issues are discovered
-
-## Contact Information
-
-For security-related questions or concerns:
-
-- **Security Team**: team@mail.nodepass.eu
-- **General Issues**: [GitHub Issues](https://github.com/NodePassProject/nodepass/issues)
-- **Community**: [Telegram Group](https://t.me/NodePassGroup)
 
 ## Attribution
 
