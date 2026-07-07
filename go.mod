@@ -1,10 +1,8 @@
 module github.com/NodePassProject/nodepass
 
-go 1.26.1
+go 1.26.4
 
 require (
-	github.com/NodePassProject/conn v1.1.1
-	github.com/NodePassProject/logs v1.1.1
 	github.com/NodePassProject/nph2 v1.1.1
 	github.com/NodePassProject/npws v1.1.1
 	github.com/NodePassProject/pool v1.1.1
@@ -12,10 +10,10 @@ require (
 )
 
 require (
-	github.com/coder/websocket v1.8.14 // indirect
-	github.com/quic-go/quic-go v0.59.0 // indirect
-	golang.org/x/crypto v0.48.0 // indirect
-	golang.org/x/net v0.51.0 // indirect
-	golang.org/x/sys v0.42.0 // indirect
-	golang.org/x/text v0.34.0 // indirect
+	github.com/coder/websocket v1.8.15 // indirect
+	github.com/quic-go/quic-go v0.60.0 // indirect
+	golang.org/x/crypto v0.53.0 // indirect
+	golang.org/x/net v0.56.0 // indirect
+	golang.org/x/sys v0.46.0 // indirect
+	golang.org/x/text v0.39.0 // indirect
 )
