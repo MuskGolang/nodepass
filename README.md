@@ -122,26 +122,30 @@ The [NodePassProject](https://github.com/NodePassProject) organization develops 
 
 - SOL: `BwZuvh13BQWhYSh31dEZiy8avqZwMFfdSwfawTiMv7Bw`
 
-## Sponsors
+## Sponsorship
 
-<table>
-  <tr>
-    <td width="240" align="center">
-      <a href="https://whmcs.as211392.com"><img src="https://nodepass.eu/assets/dreamcloud.png"></a>
-    </td>
-    <td width="240" align="center">
-      <a href="https://t.me/xiao_bai_xue_zhang"><img src="https://nodepass.eu/assets/xuezhang.png"></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="240" align="center">
-      <a href="https://sharon.io"><img src="https://nodepass.eu/assets/sharon.png"></a>
-    </td>
-    <td width="240" align="center">
-      <a href="https://vps.town"><img src="https://nodepass.eu/assets/vpstown.png"></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://gatewaysentry.com/">
+    <img
+      src="https://nodepass.eu/assets/gatewaysentry.png"
+      alt="GatewaySentry"
+      width="720"
+    >
+  </a>
+</p>
+
+<p align="center">
+  <em>
+    A DDoS mitigation solution that works and doesn't over estimate capabilities,
+    since the product speaks for itself.
+  </em>
+</p>
+
+<p align="center">
+  <sub>
+    Visit <a href="https://gatewaysentry.com/">GatewaySentry</a> to learn more.
+  </sub>
+</p>
 
 ## License
 
@@ -154,3 +158,5 @@ The [NodePassProject](https://github.com/NodePassProject) organization develops 
 This project is provided "as is" without any warranties. Users assume all risks and must comply with local laws for legal use only. Developers are not liable for any direct, indirect, incidental, or consequential damages. Secondary development requires commitment to legal use and self-responsibility for legal compliance. Developers reserve the right to modify software features and this disclaimer at any time. Final interpretation rights belong to developers.
 
 ---
+
+© 2026 NodePassProject. All rights reserved.
