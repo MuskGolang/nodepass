@@ -1,6 +1,6 @@
 module github.com/NodePassProject/nodepass
 
-go 1.26.4
+go 1.26.5
 
 require (
 	github.com/NodePassProject/nph2 v1.1.1
